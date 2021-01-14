@@ -1,0 +1,74 @@
+.jacket-card{
+    border: 0;
+}
+.woman-jacket{
+    background-color: white;
+    border: 0;
+}
+
+/* .card-img-top{
+    background-color: #F1F1F1 ;
+} */
+.logo{
+    width: 75%;
+}
+.buying-icon{
+    width: 30%;
+}
+.left-icon img{
+  width: 75%;  
+}
+.righft-image img{
+    width:75%; 
+}
+
+h1{
+    color: #FABE4C;
+    font: bold;
+    font-size: 60px; 
+}
+h2{
+    color: #363958;
+    font-style: bold;
+    font-size: 48px;
+}
+h3{
+    color: #FABE4C;
+    /* font-size: 36px; */
+}
+h4{
+    color: #363958;
+}
+.card-title{
+    color: #363958;
+}
+#winter{
+    color:#363958;
+}
+#up-part{
+    background-color: #FFFBF0;
+}
+.button-color{
+    background-color: #A4BC46;
+}
+.right-side img{
+    width: 75%;
+}
+p{
+font-size: 16px;
+/* float: left; */
+}
+button{
+    border-radius: 1em;
+    padding: 10px;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+#subscribe{
+    border-radius: 1em;
+    background-color: #F1F1F1;
+}
+#updates{
+    font-weight: bold;
+    color:dimgray;
+}
