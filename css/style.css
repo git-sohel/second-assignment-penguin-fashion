@@ -72,3 +72,26 @@ button{
     font-weight: bold;
     color:dimgray;
 }
+/* .form-control{
+    width: 100%;
+} */
+.form-data{
+    background-color: #F1F1F1;
+}
+.about{
+    text-align: center;
+
+}
+.about img{
+    position:absolute;
+}
+.about-image{
+    margin-left: 2cm;
+    padding-left: 2cm;
+}
+a{
+    color: #FFFFFF;
+}
+.about-text{
+    text-align: center;
+}
